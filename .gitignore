@@ -84,6 +84,14 @@ celerybeat-schedule
 # Environments
 .env
 .venv
+Lab1/venv/
+Lab2/venv/
+Lab3/venv/
+Lab4/venv/
+Lab5/venv/
+Lab6/venv/
+Lab7/venv/
+Lab8/venv/
 env/
 venv/
 ENV/
